@@ -15,7 +15,7 @@ Please click on the title of the project above to reach out the project codes an
 
 Some snaphots;
 
-![](https://github.com/musster/Portfolio/blob/a85b61fec127d9336c4c1824f7dcf6a4d03d23df/images/f1.jpg)
+![](https://raw.githubusercontent.com/musster/Portfolio/main/images/f1.jpg)
 
 
 
