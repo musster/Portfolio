@@ -10,6 +10,7 @@ Example Data Science Projects that I'm currently working on
 Data analysis conducted via pandas library and visualizations by seaborn.
 
 Main idea of the project was to verify whether the fivethirtyeight article conclusions on Fandango were re-producible.
+Please click on the title of the project above to reach out the project codes and documentation.
 
 Some snaphots;
 
