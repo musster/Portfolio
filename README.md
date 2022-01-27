@@ -12,3 +12,6 @@ Data analysis conducted via pandas library and visualizations by seaborn.
 
 Main idea was to verify whether the fivethirtyeight article conclusions on Fandango were re-producible.
 
+![](https://github.com/musster/Portfolio/blob/main/images/f1.jpg)
+
+
