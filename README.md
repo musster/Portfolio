@@ -27,3 +27,7 @@ Python Pandas, Seaborn and Matplotlib libraries used for the exploratory data an
 The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. Data combining and cleaning processes explained in detail and business related questions such as finding out the most popular bundles in the store purchases.
 
 Please click on the title of the project above to reach out the project codes and documentation.
+
+Some snaphots;
+
+![](/images/s1.jpg)
